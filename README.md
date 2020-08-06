@@ -5,6 +5,7 @@
 <br>
 
 # I'm Full Stack Developer with a soft spot for Design
+* 👨‍🎓 Advertising Art Director
 * 👨‍💻 Currently working @ **[Geopagos](https://geopagos.com)**
 * 👨‍🏫 Teaching Web Development @ **[Coderhose](https://coderhouse.com)**
 * ⚛ Working hard on **React** right now
@@ -42,12 +43,10 @@
 <img align="left" alt="Adobe Photoshop" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/adobephotoshop.svg">
 
 <br>
-
-### 💬 Connect with me
-[<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/linkedin.svg"> Linkedin](https://www.linkedin.com/in/lucas-gabriel-terracino-6aab04192/)
-
 <br>
 
-[<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/devdotto.svg"> Dev.to](https://www.linkedin.com/in/lucas-gabriel-terracino-6aab04192/)
+### 💬 Connect with me
+[<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/linkedin.svg">](https://www.linkedin.com/in/lucas-gabriel-terracino-6aab04192/)
+[<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/devdotto.svg">](https://www.linkedin.com/in/lucas-gabriel-terracino-6aab04192/)
 
 
