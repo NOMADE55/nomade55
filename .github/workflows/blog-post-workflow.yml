@@ -11,8 +11,8 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@1.0.7
-            with:
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with:
                 feed_list: "https://dev.to/feed/nomade55"
 
 
