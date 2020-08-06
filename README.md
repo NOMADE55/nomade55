@@ -1,5 +1,7 @@
 ## Hello, Lucas here!
-<img alt="¿Qué tal?" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/sup.png" />
+<img alt="¿Qué tal?" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/
+sup.png" />
+<br>
 # I'm Full Stack Developer with a soft spot for Design
 * 👨‍💻 Currently working @ **[Geopagos](https://geopagos.com)**
 * 👨‍🏫 Teaching Web Development @ **[Coderhose](https://coderhouse.com)**
@@ -39,7 +41,9 @@
 
 ### 💬 Connect with me
 [<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/linkedin.svg"> Linkedin](https://www.linkedin.com/in/lucas-gabriel-terracino-6aab04192/)
+
 <br>
+
 [<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/devdotto.svg"> Dev.to](https://www.linkedin.com/in/lucas-gabriel-terracino-6aab04192/)
 
 
