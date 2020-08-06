@@ -1,7 +1,9 @@
 ## Hello, Lucas here!
-<img alt="¿Qué tal?" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/
-sup.png" />
+
+<img alt="¿Qué tal?" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/sup.png" />
+
 <br>
+
 # I'm Full Stack Developer with a soft spot for Design
 * 👨‍💻 Currently working @ **[Geopagos](https://geopagos.com)**
 * 👨‍🏫 Teaching Web Development @ **[Coderhose](https://coderhouse.com)**
