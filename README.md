@@ -14,6 +14,8 @@
 
 ### 📚 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Productivity tips I'd give my past self through a time-cellphone with limited credit](https://dev.to/nomade55/productivity-tips-i-d-give-my-past-self-through-a-time-cellphone-with-limited-credit-5gc3)
+- [My React Functional Component maker for the terminal](https://dev.to/nomade55/my-react-functional-component-maker-for-the-terminal-2bmh)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
