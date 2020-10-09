@@ -9,7 +9,7 @@
 * 👨‍💻 Currently working @ **[Geopagos](https://geopagos.com)**
 * 👨‍🏫 Teaching Web Development @ **[Coderhose](https://coderhouse.com)**
 * ⚛ Working hard on **React** right now
-* 📕 I'm starting to write about coding
+* 📕 I write about coding
 
 <br>
 
