@@ -15,6 +15,7 @@
 
 ### 📚 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Easy theming with SASS mixins.](https://dev.to/nomade55/easy-theming-with-sass-mixins-2ckm)
 - [Highlighting awesome SASS snippets from Bulma](https://dev.to/nomade55/highlighting-awesome-sass-snippets-from-bulma-4nnm)
 - [Tweaking commits with Git's Magic Time Machine✨, aka git rebase](https://dev.to/nomade55/tweaking-commits-with-git-s-magic-time-machine-aka-git-rebase-h02)
 - [Productivity tips I'd give my past self through a time-cellphone with limited credit](https://dev.to/nomade55/productivity-tips-i-d-give-my-past-self-through-a-time-cellphone-with-limited-credit-5gc3)
