@@ -6,8 +6,8 @@
 
 # I'm Full Stack Developer with a soft spot for Design
 * 👨‍🎓 Advertising Art Director
-* 👨‍💻 Currently working @ **[Geopagos](https://geopagos.com)**
-* 👨‍🏫 Teaching Web Development @ **[Coderhose](https://coderhouse.com)**
+* 👨‍💻 Currently working @ **[Simplex Software](https://www.simplexsf.com/)**
+* 👨‍🏫 Teaching Web Development @ **[Coderhouse](https://coderhouse.com)**
 * ⚛ Working hard on **React** right now
 * 📕 I write about coding
 
@@ -44,6 +44,7 @@
 <img align="left" alt="DEV.to" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/devdotto.svg">
 <img align="left" alt="Adobe Illustrator" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/adobeillustrator.svg">
 <img align="left" alt="Adobe Photoshop" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/adobephotoshop.svg">
+<img align="left" alt="Svelte" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/svelte.svg">
 
 <br>
 <br>
