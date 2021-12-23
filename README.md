@@ -6,9 +6,11 @@
 
 # I'm Full Stack Developer with a soft spot for Design
 * 👨‍🎓 Advertising Art Director
-* 👨‍💻 Currently working @ **[Simplex Software](https://www.simplexsf.com/)**
+* 👨‍💻 Currently working @ **[Simplex Software](https://www.devlane.com/)**
+* 👨‍💻 Full Stack Developer @ **[Captiv8](https://captiv8.io)**
 * 👨‍🏫 Teaching Web Development @ **[Coderhouse](https://coderhouse.com)**
-* ⚛ Working hard on **React** right now
+* ⚛ **React** && 🐘 **PHP**
+💜
 * 📕 I write about coding
 
 <br>
