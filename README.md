@@ -5,14 +5,14 @@
 <br>
 
 # I'm Full Stack Developer with a soft spot for Design
-* 👨‍🎓 Advertising Art Director 
-* 👨‍💻 Currently working @ **[Devlane](https://www.devlane.com/)**
-* 👨‍💻 Full Stack Developer @ **[Captiv8](https://captiv8.io)**
-* 👨‍🏫 I teach Web Development
-* ⚛ **React** && 🐘 **PHP**
+* 👨‍🎓 Advertising Art Director (Yeah, really)
+* 👨‍💻 Currently working @ **[InData Labs](https://indatalabs.com/)**
+* 👨‍🏫 I teach Software Development
+* 🧡 Svelte Enthusiast
+
 💜
 * 📕 I write about coding
-* 💨 Learning both **[Tailwind](https://github.com/tailwindlabs/tailwindcss)** & **[Inertia](https://github.com/inertiajs/inertia)** at the moment
+* 💨 Learning **[GO](https://go.dev/)** at the moment
 
 <br>
 
