@@ -4,15 +4,17 @@
 
 <br>
 
-# I'm Full Stack Developer with a soft spot for Design
-* 👨‍🎓 Advertising Art Director (Yeah, really)
+# I'm Full Stack Developer with a soft spot for Design and UX/UI
+* 👨‍🎓 Advertising Art Director turned Developer.
 * 👨‍💻 Currently working @ **[InData Labs](https://indatalabs.com/)**
 * 👨‍🏫 I teach Software Development
-* 🧡 Svelte Enthusiast
+* 🧡 In a React vs Vue discussion I'll always point to Svelte.
 
 💜
 * 📕 I write about coding
 * 💨 Learning **[GO](https://go.dev/)** at the moment
+* ✨ Jack of all trades, master of none. _Still better than one_
+* 🇦🇷 Argentina Based
 
 <br>
 
@@ -54,6 +56,5 @@
 
 ### 💬 Connect with me
 [<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/linkedin.svg">](https://www.linkedin.com/in/lucas-gabriel-terracino-6aab04192/)
-[<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/devdotto.svg">](https://www.linkedin.com/in/lucas-gabriel-terracino-6aab04192/)
 
 
