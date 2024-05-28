@@ -5,16 +5,17 @@
 <br>
 
 # I'm Full Stack Developer with a soft spot for Design and UX/UI
+* 🇦🇷 Argentina Based
 * 👨‍🎓 Advertising Art Director turned Developer.
 * 👨‍💻 Currently working @ **[InData Labs](https://indatalabs.com/)**
 * 👨‍🏫 I teach Software Development
-* 🧡 In a React vs Vue discussion I'll always point to Svelte.
 
 💜
 * 📕 I write about coding
 * 💨 Learning **[GO](https://go.dev/)** at the moment
 * ✨ Jack of all trades, master of none. _Still better than one_
-* 🇦🇷 Argentina Based
+* 🔨 In a React vs Vue discussion I'll always point to Svelte.
+
 
 <br>
 
