@@ -7,7 +7,6 @@
 # I'm Full Stack Developer with a soft spot for Design and UX/UI
 * 🇦🇷 Argentina Based
 * 👨‍🎓 Advertising Art Director turned Developer.
-* 👨‍💻 Currently working @ **[InData Labs](https://indatalabs.com/)**
 * 👨‍🏫 I teach Software Development
 
 💜
