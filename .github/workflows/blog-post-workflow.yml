@@ -1,8 +1,7 @@
 name: Latests Blog Posts I've done
 on:
     schedule:
-        # Runs every 6 hours
-        - cron: 0 */6 * * *
+        - cron: 0 0 */2 * *
     workflow_dispatch:
 
 jobs:
