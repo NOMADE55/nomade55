@@ -1,24 +1,26 @@
-## Hello, Lucas here!
+## Hi, Lucas here!
 
 <img alt="¿Qué tal?" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/sup.png" />
 
 <br>
 
-# I'm Full Stack Developer with a soft spot for Design and UX/UI
+# I'm Full Stack Developer with a soft spot for Design
 * 🇦🇷 Argentina Based
-* 👨‍🎓 Advertising Art Director turned Developer.
+* 👨‍🎓 Advertising Art Director turned Developer
+* 🕰 8 years of experience working in startups
 * 👨‍🏫 I teach Software Development
 
 💜
 * 📕 I write about coding
-* 💨 Learning **[GO](https://go.dev/)** at the moment
-* ✨ Jack of all trades, master of none. _Still better than one_
-* 🔨 In a React vs Vue discussion I'll always point to Svelte.
+* 💨 Learning 💎**Ruby** at the moment
+* ✨ Jack of all trades, master of none. **_Still better than one_**
+* 🔨 In a React vs Vue discussion I'll always point to Svelte
 
 
 <br>
 
-### 📚 Latest blog posts
+### 📚 Sometimes I write about code
+> I should do it more often...
 <!-- BLOG-POST-LIST:START -->
 - [Aprendiendo de los Grandes: El feed de Instagram](https://dev.to/mates-n-code/aprendiendo-de-los-grandes-el-feed-de-instagram-460l)
 - [Relaciones de Aspecto Perfectas en CSS](https://dev.to/nomade55/relaciones-de-aspecto-perfectas-en-css-5c96)
@@ -29,8 +31,9 @@
 
 <br>
 
-### 🧰 Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/visualstudiocode.svg">
+### 🧰 Languages and Tools
+> Always adding more to the list
+
 <img align="left" alt="Html5" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/html5.svg">
 <img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/css3.svg">
 <img align="left" alt="SASS" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/sass.svg">
