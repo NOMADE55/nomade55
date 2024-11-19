@@ -34,25 +34,15 @@
 ### 🧰 Languages and Tools
 > Always adding more to the list
 
-<img align="left" alt="Html5" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/html5.svg">
-<img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/css3.svg">
-<img align="left" alt="SASS" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/sass.svg">
-<img align="left" alt="Javascript" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/javascript.svg">
-<img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/react.svg">
-<img align="left" alt="Bootstrap" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/bootstrap.svg">
-<img align="left" alt="PHP" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/php.svg">
-<img align="left" alt="Symphony" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/symphony.svg">
-<img align="left" alt="Laravel" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/laravel.svg">
-<img align="left" alt="Python" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/python.svg">
-<img align="left" alt="Joomla" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/joomla.svg">
-<img align="left" alt="Mysql" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/mysql.svg">
-<img align="left" alt="Bash" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/gnubash.svg">
-<img align="left" alt="Git" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/git.svg">
-<img align="left" alt="Docker" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/docker.svg">
-<img align="left" alt="DEV.to" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/devdotto.svg">
-<img align="left" alt="Adobe Illustrator" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/adobeillustrator.svg">
-<img align="left" alt="Adobe Photoshop" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/adobephotoshop.svg">
-<img align="left" alt="Svelte" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/svelte.svg">
+#### Languages
+
+<img src="https://mypicto.xyz/icons?i=javascript,html,css,typescript,python,php,golang&size=35&cols=12&rounded=12">
+
+#### Technologies
+<img src="https://mypicto.xyz/icons?i=react,svelte,bootstrap,symphony,laravel,joomla,mysql,git,docker,illustrator,photoshop,flask&size=35&cols=12&rounded=12">
+
+<small>[☝🏻 If you want icons like these in your profile, check my project **Picto**](https://github.com/NOMADE55/picto)</small>
+
 
 <br>
 <br>
