@@ -1,6 +1,6 @@
 ## Hi, Lucas here!
 
-<img alt="¿Qué tal?" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/sup.png" />
+<img alt="¡Hola! ¡Hello!" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/hola.svg" />
 
 <br>
 
