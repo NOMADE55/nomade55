@@ -7,7 +7,6 @@
 # I'm Full Stack Developer with a soft spot for Design
 
 ## 🖐🏻
-* 🇦🇷 Argentina Based
 * 👨‍🎓 Advertising Art Director turned Full Stack Developer
 * 🚀 8 years of experience working in startups
 * 👨‍🏫 I teach Software Development
@@ -19,7 +18,7 @@
 * 🔨 In a React vs Vue discussion I'll always point to Svelte
 
 ## 👨🏻‍💻
-- Building [**Picto**](https://github.com/NOMADE55/picto)
+- Building [**Picto**](https://github.com/NOMADE55/picto): Show your skills with flare!
 
 <br>
 
