@@ -25,11 +25,11 @@
 ### 📚 Sometimes I write about code
 > I should do it more often...
 <!-- BLOG-POST-LIST:START -->
+- [Building an open source skill showcase with Deno](https://dev.to/nomade55/building-an-open-source-skill-showcase-with-deno-2m30)
 - [Aprendiendo de los Grandes: El feed de Instagram](https://dev.to/mates-n-code/aprendiendo-de-los-grandes-el-feed-de-instagram-460l)
 - [Relaciones de Aspecto Perfectas en CSS](https://dev.to/nomade55/relaciones-de-aspecto-perfectas-en-css-5c96)
 - [Easy theming with SASS mixins.](https://dev.to/nomade55/easy-theming-with-sass-mixins-2ckm)
 - [Highlighting awesome SASS snippets from Bulma](https://dev.to/nomade55/highlighting-awesome-sass-snippets-from-bulma-4nnm)
-- [Tweaking commits with Git&#39;s Magic Time Machine✨, aka git rebase](https://dev.to/nomade55/tweaking-commits-with-git-s-magic-time-machine-aka-git-rebase-h02)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
