@@ -42,7 +42,7 @@
 <img src="https://mypicto.xyz/icons?i=javascript,html,css,typescript,python,php,golang&size=35&cols=12&rounded=12">
 
 #### Technologies
-<img src="https://mypicto.xyz/icons?i=react,svelte,bootstrap,symphony,laravel,joomla,mysql,git,docker,illustrator,photoshop,flask&size=35&cols=12&rounded=12">
+<img src="https://mypicto.xyz/icons?i=react,svelte,bootstrap,symphony,laravel,joomla,mysql,git,docker,illustrator,photoshop,flask&size=35&cols=12&rounded=12&playful=true">
 
 <small>[☝🏻 If you want icons like these in your profile, check my project **Picto**](https://github.com/NOMADE55/picto)</small>
 
