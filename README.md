@@ -7,15 +7,15 @@
 # I'm Full Stack Developer with a soft spot for Design
 
 ## 🖐🏻
+* 🚀 9 years of experience working with startups
+* 🧠 Now learning **GraphQL** and **Hasura** 
 * 👨‍🎓 Advertising Art Director turned Full Stack Developer
-* 🚀 8 years of experience working in startups
-* 👨‍🏫 I teach Software Development
 
 ## 💜
-* 📕 I write about coding
-* ✍🏻 Learning 🦕**Deno** at the moment
+* 🔨 Svelte > *
+* 👨‍🏫 I taught Software Development
 * ✨ Jack of all trades, master of none. **_Still better than one_**
-* 🔨 In a React vs Vue discussion I'll always point to Svelte
+* 📕 I write about coding from time to time
 
 ## 👨🏻‍💻
 - Building [**Picto**](https://github.com/NOMADE55/picto): Show your skills with flare!
@@ -42,7 +42,7 @@
 <img src="https://mypicto.xyz/icons?i=javascript,html,css,typescript,python,php,golang&size=35&cols=12&rounded=12">
 
 #### Technologies
-<img src="https://mypicto.xyz/icons?i=react,svelte,bootstrap,symphony,laravel,joomla,mysql,git,docker,illustrator,photoshop,flask&size=35&cols=12&rounded=12&playful=true">
+<img src="https://mypicto.xyz/icons?i=react,svelte,bootstrap,symphony,laravel,joomla,mysql,git,docker,node,deno,flask,illustrator,photoshop&size=35&cols=12&rounded=12&playful=true">
 
 <small>[☝🏻 If you want icons like these in your profile, check my project **Picto**](https://github.com/NOMADE55/picto)</small>
 
