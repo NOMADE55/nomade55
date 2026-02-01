@@ -7,14 +7,17 @@
 # I'm Full Stack Developer with a soft spot for Design
 
 ## 🖐🏻
-* 🚀 9 years of experience working with startups
-* 🧠 Now learning **GraphQL** and **Hasura** 
-* 👨‍🎓 Advertising Art Director turned Full Stack Developer
-
+* 🚀 10 years strong _only_ working with startups
+* 🧠 Now learning **LLM**, **Agents** and **Finance Automation** 
+* 👨‍🎓 I worked in the Advertising Industry
+* 🚀 Coding 'til I can't nomore
+* 🧉 Argentina Based, mate and coffee are my fuel
+  
 ## 💜
 * 🔨 Svelte > *
-* 👨‍🏫 I taught Software Development
+* 👨‍🏫 I teach Software Development
 * ✨ Jack of all trades, master of none. **_Still better than one_**
+* 👀 Yes, I'm a Full-Stack, no, I don't like devops.
 * 📕 I write about coding from time to time
 
 ## 👨🏻‍💻
